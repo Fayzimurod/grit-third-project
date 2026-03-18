@@ -1,1 +1,1 @@
-The usage of display grid for the several screen (without making it responsive)
+The usage of display grid for the several screen (without making it responsive).
